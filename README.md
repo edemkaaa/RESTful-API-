@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo API
 
 ## Описание
@@ -57,3 +58,7 @@ npm install
 - JWT
 - Swagger
 - ESLint
+=======
+# RESTful-API-
+ESTful API для управления списком задач с использованием Node.js и Express
+>>>>>>> fc9130aab85bc6c285ede336ad7ce553a4b39638
